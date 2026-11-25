@@ -1,0 +1,2 @@
+# GROUP-5---STUDENT-GRADE-MANAGEMENT-SYSTEM-BSCS-1B-
+Repository Link for Group 5 (BSCS 1B)
