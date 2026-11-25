@@ -1,7 +1,7 @@
 import json
 import os
 
-FILE_NAME = "student_record.json"
+FILE_NAME = "../Data_Files/student_record.json"
 def load_Records():
     if not os.path.exists(FILE_NAME):
         return{}
